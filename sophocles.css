@@ -1,0 +1,23 @@
+ .speech {
+    font-family: Arial, san-serif; 
+    font-size: 18px;
+    color: black;
+
+ }
+
+ .direction {
+    font-family: Times New Roman, serif;
+    font-size: 16px;
+    color: black;
+    background-color: aliceblue;
+ }
+
+ .direction:hover{
+    background-color: green;
+    color: red;
+ }
+
+ .OR{color: blue; }
+ .El{color:green; }
+ .CH{color:purple; }
+ 
