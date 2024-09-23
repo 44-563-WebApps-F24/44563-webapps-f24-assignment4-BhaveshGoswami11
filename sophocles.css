@@ -21,3 +21,15 @@
  .Electra{color:darkgreen; }
  .Chorous{color:darkblue; }
 
+ table{
+   width: 50%;
+   border-collapse: collapse;
+ }
+ th,td {
+   border: 1px solid black;
+   padding: 5px;
+   text-align: left;
+ }
+ th{
+   background-color: darkmagenta;
+ }
