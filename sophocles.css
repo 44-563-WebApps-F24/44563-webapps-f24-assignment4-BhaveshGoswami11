@@ -1,6 +1,6 @@
  .speech {
-    font-family: Arial, san-serif; 
-    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif, san-serif; 
+    font-size: 16px;
     color: black;
 
  }
@@ -17,10 +17,10 @@
     color: red;
  }
 
- .Oresters{color: darkred; }
+ .Orestes{color: darkcyan; }
  .Electra{color:darkgreen; }
  .Chorous{color:darkblue; }
-
+ .Clytemnestra{color: darkorange;}
  table{
    width: 50%;
    border-collapse: collapse;
