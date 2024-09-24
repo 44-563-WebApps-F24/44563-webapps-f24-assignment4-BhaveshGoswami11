@@ -33,3 +33,9 @@
  th{
    background-color: darkmagenta;
  }
+
+.name:hover {
+   text-shadow: 2px 2px 5px rgba(0, 157, 255, 0.7); /* Red shadow */
+   border: 2px solid blue; /* Blue border */
+   padding: 2px; /* Padding around the text */
+}
